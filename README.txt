@@ -1,4 +1,4 @@
-we implemented M1 model from 
+we implemented M1 model "from Semi-supervised Learning with Deep Generative Models"
 
 clone the repo and run localy by run the pytorch-mnist-VAE.py file in editor like spyder or simalar make sure that you have all the dependencies istalled (e.g pytorch ,matplotlib ext)
 if not just install it from pip ;)
